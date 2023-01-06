@@ -1,27 +1,19 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the
-# server process.
 
-# theme settings
 theme: "lone-wolf-theme"
 remote_theme: # "manid2/lone-wolf-theme"
 bootswatch_theme: "united" # cerulean, spacelab, united
 
-# site settings, follows the order used in jekyll-seo-tag plugin
+
 lang: "en_US"
 title: "Oli idemitsu"
 description: "jual produk oli idemitsu di tokopedia dan shoope"
 url: "https://oli-idemetsu.pages.dev/"
-baseurl: "" # the subpath of your site, e.g. "/blog"
+baseurl: ""
 author: dasterix
 twitter:
   username: dasterix # should be site's username
   card: summary
-logo: assets/images/lwt-logo-wolf-v2.png # PNG is SEO friendly
+logo: assets/images/ikon.png # PNG is SEO friendly
 # use below when there are social links for site
 #social:
 #  name: Mani Kumar
@@ -176,5 +168,5 @@ defaults:
       path: ""
     values:
       # for SEO and social sharing
-      image: assets/images/lwt-logo-wolf-v2.png
+      image: assets/images/ikon.png
       image_alt: Lone Wolf Theme logo version 2
