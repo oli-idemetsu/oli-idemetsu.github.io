@@ -14,12 +14,12 @@ bootswatch_theme: "united" # cerulean, spacelab, united
 # site settings, follows the order used in jekyll-seo-tag plugin
 lang: "en_US"
 title: "Oli idemitsu"
-description: "A simple bootstrap based jekyll theme."
-url: # site url e.g. "https://manid2.github.io"
+description: "jual produk oli idemitsu di tokopedia dan shoope"
+url: "https://oli-idemetsu.pages.dev/"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-author: mani_d2
+author: dasterix
 twitter:
-  username: mani_d2 # should be site's username
+  username: dasterix # should be site's username
   card: summary
 logo: assets/images/lwt-logo-wolf-v2.png # PNG is SEO friendly
 # use below when there are social links for site
